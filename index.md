@@ -1,37 +1,63 @@
-## Welcome to GitHub Pages
+## Skills
 
-You can use the [editor on GitHub](https://github.com/samueljayh/samueljayh.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+###### Proficient
+Swift, iOS, Git, GraphQL
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+###### Comfortable
+SwiftUI, C/C++, SQL, NoSQL, HTML, CSS
 
-### Markdown
+###### Some Exposure
+Python, Java, JavaScript, Amazon Web Services (AWS)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Experience
 
-```markdown
-Syntax highlighted code block
+###### Wayfair
+**iOS Software Engineer, July 2019 – Present**  
+Worked on mobile messaging platform to connect customers with customer service agents
 
-# Header 1
-## Header 2
-### Header 3
+###### CareTrails
+**Full Stack Engineer Intern, May 2018 – June 2019**  
+- Built an iOS application in Swift that calculates statistics of Hospital Emergency Departments in order to improve efficiency and care  
+- Built a Node.js API and NoSQL database with patient information to supply data to iOS application  
+- Learned how to code in Swift and build RESTful APIs
 
-- Bulleted
-- List
+###### Self-Employed
+**Computer Science Tutor, May – August 2018**  
+- Taught Computer Science students about Object Oriented Programming, data structures, sorting algorithms, and time & space complexity
 
-1. Numbered
-2. List
+###### Blanchard Construction Company
+**Construction Worker, May – August 2015, 2016**  
+- Constructed a 3 story house with a team of 10, became an expert in painting indoor and outdoor surfaces
 
-**Bold** and _Italic_ and `Code` text
+## Education
 
-[Link](url) and ![Image](src)
-```
+**Tufts University, Medford, Massachusetts**  
+B.S. in Computer Science Engineering  
+Minor in Engineering Management  
+3.41 GPA, Dean's List
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+**Tufts European Center, Talloires, France**  
+Study Abroad
 
-### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/samueljayh/samueljayh.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+## Projects
 
-### Support or Contact
+### WalkMedford
+Developed an iOS app for a local government organization that uses Augmented Reality to show users historical landmarks around the city of Medford, MA. Designed the schema and implemented a PostgreSQL Database to supply content to the app.
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### CashFlo
+Developed a secure iOS app that tracks a user’s cash flow to avoid overdrawing their bank account. Implements two factor authentication with authenticator apps or a physical security key. Encrypts the binary of the IPA file and utilizes jailbreak detection to mitigate reverse engineering.
+
+### whynotsecure.com
+Created a personal finance website geared towards people just starting out in the personal finance world. Hosted using Amazon Web Services.
+
+### whynotwealth.com
+Created a website centered around cybersecurity. Publish articles about how people can be more secure online and tutorials on creating more secure mobile applications.
+
+## Interests
+
+###Profressional
+Mobile Security, Privacy, Personal Finance
+
+### Personal 
+Skiing, Dogs, Eating good food
