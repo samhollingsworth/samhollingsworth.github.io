@@ -42,22 +42,22 @@ Study Abroad
 
 # Projects
 
-### WalkMedford
+**WalkMedford**  
 Developed an iOS app for a local government organization that uses Augmented Reality to show users historical landmarks around the city of Medford, MA. Designed the schema and implemented a PostgreSQL Database to supply content to the app.
 
-### CashFlo
+**CashFlo**  
 Developed a secure iOS app that tracks a user’s cash flow to avoid overdrawing their bank account. Implements two factor authentication with authenticator apps or a physical security key. Encrypts the binary of the IPA file and utilizes jailbreak detection to mitigate reverse engineering.
 
-### whynotsecure.com
+**whynotsecure.com**  
 Created a personal finance website geared towards people just starting out in the personal finance world. Hosted using Amazon Web Services.
 
-### whynotwealth.com
+**whynotwealth.com**  
 Created a website centered around cybersecurity. Publish articles about how people can be more secure online and tutorials on creating more secure mobile applications.
 
 # Interests
 
-### Professional
+**Professional**  
 Mobile Security, Privacy, Personal Finance
 
-### Personal 
+**Personal**   
 Skiing, Dogs, Eating good food
