@@ -1,3 +1,9 @@
+# Contact
+
+~~~swift
+let email = "samhollingsworth" + "@" + "fastmail.com"
+~~~
+
 # Skills
 
 ### Proficient
