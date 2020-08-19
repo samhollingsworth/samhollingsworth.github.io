@@ -48,7 +48,7 @@ Developed an iOS app during college for a local government organization that use
 
 # Education
 
-**Tufts University, Medford, Massachusetts**  
+**Tufts University, September 2015 - May 2019**  
 B.S. in Computer Science Engineering  
 Minor in Engineering Management  
 3.41 GPA, Dean's List
