@@ -1,19 +1,25 @@
 # Skills
 
 ### Proficient
-Swift, iOS, Git, GraphQL
+Swift, iOS, Xcode, Git, GraphQL
 
 ### Comfortable
-SwiftUI, C/C++, SQL, NoSQL, HTML, CSS
+SwiftUI, C/C++, Unix
 
 ### Some Exposure
-Python, Java, JavaScript, Amazon Web Services (AWS)
+SQL, NoSQL, HTML, CSS
 
 # Experience
 
 ### Wayfair
-**iOS Software Engineer, July 2019 – Present**  
-Worked on mobile messaging platform to connect customers with customer service agents
+**iOS Software Engineer L2, August 2020 – Present** 
+- Acts as iOS representative for mobile messaging platform team, responds to requests from other teams to change code and prioritizes work with team goals
+- Monitors and investigates alerts when errors are triggered. Ensures necessary fixes are completed by next weekly release
+- Presents work of team at monthly Service Engineering App All Hands meeting and presents at App Lunch & Learn to share knowledge
+
+**iOS Software Engineer L1, July 2019 – August 2020**  
+- Worked on mobile messaging platform to connect customers with customer service agents. Developed using VIPER architecture and GraphQL for web requests
+- Code reviewed teammate’s pull requests to ensure code adheres to company style guidelines and best practices
 
 ### CareTrails
 **Full Stack Engineer Intern, May 2018 – June 2019**  
@@ -29,30 +35,23 @@ Worked on mobile messaging platform to connect customers with customer service a
 **Construction Worker, May – August 2015, 2016**  
 - Constructed a 3 story house with a team of 10, became an expert in painting indoor and outdoor surfaces
 
+# Projects
+
+**Security Research**  
+Participates in bug bounty programs on [HackerOne](https://hackerone.com/scrsh) & [BugCrowd](https://bugcrowd.com/scrsh) helping companies identify and triage security vulnerabilities in their iOS applications.
+
+**CashFlo**  
+Developed a secure iOS app that tracks a user’s cash flow to avoid overdrawing their bank account. Implements two factor authentication with authenticator apps or a physical security key. Encrypts the binary of the IPA file and utilizes jailbreak detection to mitigate reverse engineering.
+
+**WalkMedford**  
+Developed an iOS app during college for a local government organization that uses Augmented Reality to show users historical landmarks around the city of Medford, MA. Designed the schema and implemented a PostgreSQL Database to supply content to the app.
+
 # Education
 
 **Tufts University, Medford, Massachusetts**  
 B.S. in Computer Science Engineering  
 Minor in Engineering Management  
 3.41 GPA, Dean's List
-
-**Tufts European Center, Talloires, France**  
-Study Abroad
-
-
-# Projects
-
-**WalkMedford**  
-Developed an iOS app for a local government organization that uses Augmented Reality to show users historical landmarks around the city of Medford, MA. Designed the schema and implemented a PostgreSQL Database to supply content to the app.
-
-**CashFlo**  
-Developed a secure iOS app that tracks a user’s cash flow to avoid overdrawing their bank account. Implements two factor authentication with authenticator apps or a physical security key. Encrypts the binary of the IPA file and utilizes jailbreak detection to mitigate reverse engineering.
-
-**whynotsecure.com**  
-Created a personal finance website geared towards people just starting out in the personal finance world. Hosted using Amazon Web Services.
-
-**whynotwealth.com**  
-Created a website centered around cybersecurity. Publish articles about how people can be more secure online and tutorials on creating more secure mobile applications.
 
 # Interests
 
