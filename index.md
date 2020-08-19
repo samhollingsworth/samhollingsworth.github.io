@@ -44,7 +44,7 @@ Participates in bug bounty programs on [HackerOne](https://hackerone.com/scrsh) 
 Developed a secure iOS app that tracks a user’s cash flow to avoid overdrawing their bank account. Implements two factor authentication with authenticator apps or a physical security key. Encrypts the binary of the IPA file and utilizes jailbreak detection to mitigate reverse engineering.
 
 **WalkMedford**  
-Developed an iOS app during college for a local government organization that uses Augmented Reality to show users historical landmarks around the city of Medford, MA. Designed the schema and implemented a PostgreSQL Database to supply content to the app.
+Developed an [iOS app](https://github.com/walkMedfordiOS/iOSapp) during college for a local government organization that uses Augmented Reality to show users historical landmarks around the city of Medford, MA. Designed the schema and implemented a PostgreSQL Database to supply content to the app.
 
 # Education
 
