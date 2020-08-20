@@ -46,8 +46,8 @@ SQL, NoSQL, HTML, CSS
 **Security Research**  
 Participates in bug bounty programs on [HackerOne](https://hackerone.com/scrsh) & [BugCrowd](https://bugcrowd.com/scrsh) helping companies identify and triage security vulnerabilities in their iOS applications.
 
-**CashFlo**  
-Developed a secure iOS app that tracks a user’s cash flow to avoid overdrawing their bank account. Implements two factor authentication with authenticator apps or a physical security key. Encrypts the binary of the IPA file and utilizes jailbreak detection to mitigate reverse engineering.
+**CashFlow**  
+Developed a secure [iOS app](https://github.com/samhollingsworth/CashFlow) that tracks a user’s cash flow to avoid overdrawing their bank account. Implements two factor authentication with authenticator apps or a physical security key. Encrypts the binary of the IPA file and utilizes jailbreak detection to mitigate reverse engineering.
 
 **WalkMedford**  
 Developed an [iOS app](https://github.com/walkMedfordiOS/iOSapp) during college for a local government organization to show users historical landmarks around the city of Medford, MA. Designed the schema and implemented a PostgreSQL Database to supply content to the app.
