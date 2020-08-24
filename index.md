@@ -1,10 +1,14 @@
 # Contact
 
+***  
+
 ~~~swift
 let email = "samhollingsworth" + "@" + "fastmail.com"
 ~~~
 
 # Skills
+
+***  
 
 ### Proficient
 Swift, iOS, Xcode, Git, GraphQL
@@ -16,6 +20,8 @@ SwiftUI, C/C++, Unix
 SQL, NoSQL, HTML, CSS
 
 # Experience
+
+***  
 
 ### Wayfair
 **iOS Software Engineer L2, August 2020 – Present** 
@@ -43,6 +49,8 @@ SQL, NoSQL, HTML, CSS
 
 # Projects
 
+***  
+
 **Security Research**  
 Participates in bug bounty programs on [HackerOne](https://hackerone.com/scrsh) & [BugCrowd](https://bugcrowd.com/scrsh) helping companies identify and triage security vulnerabilities in their iOS applications.
 
@@ -54,12 +62,16 @@ Developed an [iOS app](https://github.com/walkMedfordiOS/iOSapp) during college 
 
 # Education
 
+***  
+
 **Tufts University, September 2015 - May 2019**  
 B.S. in Computer Science Engineering  
 Minor in Engineering Management  
 3.41 GPA, Dean's List
 
 # Interests
+
+***  
 
 **Professional**  
 Mobile Security, Privacy, Personal Finance
