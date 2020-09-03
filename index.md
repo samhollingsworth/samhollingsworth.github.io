@@ -24,12 +24,12 @@ SQL, NoSQL, HTML, CSS
 ***  
 
 ### Wayfair
-**iOS Software Engineer L2, August 2020 – Present** 
+**iOS Software Engineer L2, July 2020 – Present** 
 - Acts as iOS representative for mobile messaging platform team, responds to requests from other teams to change code and prioritizes work with team goals
 - Monitors and investigates alerts when errors are triggered. Ensures necessary fixes are completed by next weekly release
 - Presents work of team at monthly Service Engineering App All Hands meeting and presents at App Lunch & Learn to share knowledge
 
-**iOS Software Engineer L1, July 2019 – August 2020**  
+**iOS Software Engineer L1, July 2019 – July 2020**  
 - Worked on mobile messaging platform to connect customers with customer service agents. Developed using VIPER architecture and GraphQL for web requests
 - Code reviewed teammate’s pull requests to ensure code adheres to company style guidelines and best practices
 
