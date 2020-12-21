@@ -10,13 +10,13 @@ let email = "samhollingsworth" + "@" + "fastmail.com"
 
 ***  
 
-### Proficient
+**Proficient**  
 Swift, iOS, Xcode, Git, GraphQL
 
-### Comfortable
+**Comfortable**  
 JavaScript, PHP, SwiftUI, C/C++, Unix
 
-### Some Exposure
+**Some Exposure**  
 SQL, NoSQL, HTML, CSS
 
 # Experience
