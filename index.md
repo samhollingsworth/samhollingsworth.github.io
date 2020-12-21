@@ -40,7 +40,7 @@ SQL, NoSQL, HTML, CSS
 **Computer Science Tutor, Self-Employed** May – August 2018 
 - Taught Computer Science students about Object Oriented Programming, data structures, sorting algorithms, and time & space complexity
 
-**Construction Worker, Blanchard Construction Company** May – August 2015, 2016 
+**Construction Worker, Blanchard Construction** May – August 2015, 2016 
 - Constructed a 3 story house with a team of 10, became an expert in painting indoor and outdoor surfaces
 
 # Projects
