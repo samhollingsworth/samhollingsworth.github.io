@@ -67,13 +67,3 @@ Developed an [iOS app](https://github.com/walkMedfordiOS/iOSapp) during college 
 B.S. in Computer Science Engineering  
 Minor in Engineering Management  
 3.41 GPA, Dean's List
-
-# Interests
-
-***  
-
-**Professional**  
-Mobile Security, Privacy, Personal Finance
-
-**Personal**   
-Skiing, Dogs, Eating good food
