@@ -23,24 +23,24 @@ SQL, NoSQL, HTML, CSS
 
 ***  
 
-**iOS Software Engineer II, Wayfair** July 2020 – Present 
+**Wayfair, iOS Software Engineer II** July 2020 – Present 
 - Acts as iOS representative for mobile messaging platform team, responds to requests from other teams to change code and prioritizes work with team goals
 - Monitors and investigates alerts when errors are triggered. Ensures necessary fixes are completed by next weekly release
 - Presents work of team at monthly Service Engineering App All Hands meeting and presents at App Lunch & Learn to share knowledge
 
-**iOS Software Engineer I, Wayfair** July 2019 – July 2020
+**Wayfair, iOS Software Engineer I** July 2019 – July 2020
 - Worked on mobile messaging platform to connect customers with customer service agents. Developed using VIPER architecture and GraphQL for web requests
 - Code reviewed teammate’s pull requests to ensure code adheres to company style guidelines and best practices
 
-**Full Stack Engineer Intern, CareTrails** May 2018 – June 2019
+**CareTrails, Full Stack Engineer Intern** May 2018 – June 2019
 - Built an iOS application in Swift that calculates statistics of Hospital Emergency Departments in order to improve efficiency and care  
 - Built a Node.js API and NoSQL database with patient information to supply data to iOS application  
 - Learned how to code in Swift and build RESTful APIs
 
-**Computer Science Tutor, Self-Employed** May – August 2018 
+**Self-Employed, Computer Science Tutor** May – August 2018 
 - Taught Computer Science students about Object Oriented Programming, data structures, sorting algorithms, and time & space complexity
 
-**Construction Worker, Blanchard Construction** May – August 2015, 2016 
+**Blachard Construction, Construction Worker** May – August 2015, 2016 
 - Constructed a 3 story house with a team of 10, became an expert in painting indoor and outdoor surfaces
 
 # Projects
