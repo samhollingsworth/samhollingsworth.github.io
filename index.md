@@ -1,3 +1,9 @@
+# About Me
+
+- 👨‍💻 I’m currently working at [Wayfair](https://www.wayfair.com) on their [iOS app](https://apps.apple.com/us/app/wayfair-shop-all-things-home/id836767708)
+- 📈 In my free time I'm working on a personal finance app [Weighted Returns](https://github.com/samhollingsworth/weighted-returns)
+- 🔒 I’m currently learning about mobile app security by reading and working through the [OWASP Mobile Security Testing Guide](https://mobile-security.gitbook.io/mobile-security-testing-guide/)
+
 # Contact
 
 ***  
