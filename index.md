@@ -1,16 +1,10 @@
 # About Me
 
+***
+
 - 👨‍💻 I’m currently working at [Wayfair](https://www.wayfair.com) on their [iOS app](https://apps.apple.com/us/app/wayfair-shop-all-things-home/id836767708)
-- 📈 In my free time I'm working on a personal finance app [Weighted Returns](https://github.com/samhollingsworth/weighted-returns)
+- 📈 In my free time I'm working on a personal finance app [Weighted Returns](https://github.com/samhollingsworth/weighted-returns#readme)
 - 🔒 I’m currently learning about mobile app security by reading and working through the [OWASP Mobile Security Testing Guide](https://mobile-security.gitbook.io/mobile-security-testing-guide/)
-
-# Contact
-
-***  
-
-~~~swift
-let email = "samhollingsworth" + "@" + "fastmail.com"
-~~~
 
 # Skills
 
@@ -23,7 +17,7 @@ Swift, iOS, Xcode, Git, GraphQL
 JavaScript, PHP, SwiftUI, C/C++, Unix
 
 **Some Exposure**  
-SQL, NoSQL, HTML, CSS
+SQL, HTML, CSS
 
 # Experience
 
@@ -59,8 +53,8 @@ Contributes to Open Source Projects like Firefox iOS and Signal iOS
 **Security Research**  
 Participates in bug bounty programs on [HackerOne](https://hackerone.com/scrsh) & [BugCrowd](https://bugcrowd.com/scrsh) helping companies identify and triage security vulnerabilities in their iOS applications.
 
-**CashFlow**  
-Developing a secure [iOS app](https://github.com/samhollingsworth/CashFlow) that tracks a user’s cash flow to avoid overdrawing their bank account. Implements two factor authentication with authenticator apps or a physical security key. Encrypts the binary of the IPA file and utilizes jailbreak detection to mitigate reverse engineering.
+**Weighted Returns**  
+Developing a secure [iOS app](https://github.com/samhollingsworth/weighted-returns#readme) that tracks a user's entire portfolio. 
 
 **WalkMedford**  
 Developed an [iOS app](https://github.com/walkMedfordiOS/iOSapp) during college for a local government organization to show users historical landmarks around the city of Medford, MA. Designed the schema and implemented a PostgreSQL Database to supply content to the app.
@@ -73,3 +67,11 @@ Developed an [iOS app](https://github.com/walkMedfordiOS/iOSapp) during college 
 B.S. in Computer Science Engineering  
 Minor in Engineering Management  
 3.41 GPA, Dean's List
+
+# Contact
+
+***  
+
+~~~swift
+let email = "samhollingsworth" + "@" + "fastmail.com"
+~~~
