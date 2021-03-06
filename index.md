@@ -57,7 +57,7 @@ Participates in bug bounty programs on [HackerOne](https://hackerone.com/scrsh) 
 Developing a secure [iOS app](https://github.com/samhollingsworth/weighted-returns#readme) that tracks a user's entire portfolio. 
 
 **WalkMedford**  
-Developed an [iOS app](https://github.com/walkMedfordiOS/iOSapp) during college for a local government organization to show users historical landmarks around the city of Medford, MA. Designed the schema and implemented a PostgreSQL Database to supply content to the app.
+Developed an [iOS app](https://github.com/walkMedfordiOS/iOSapp#readme) during college for a local government organization to show users historical landmarks around the city of Medford, MA. Designed the schema and implemented a PostgreSQL Database to supply content to the app.
 
 # Education
 
