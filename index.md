@@ -47,14 +47,8 @@ SQL, HTML, CSS
 
 ***  
 
-**Open Source Contributions**  
-Contributes to Open Source Projects like Firefox iOS and Signal iOS
-
-**Security Research**  
-Participates in bug bounty programs on [HackerOne](https://hackerone.com/scrsh) & [BugCrowd](https://bugcrowd.com/scrsh) helping companies identify and triage security vulnerabilities in their iOS applications.
-
 **Weighted Returns**  
-Developing a secure [iOS app](https://github.com/samhollingsworth/weighted-returns#readme) that tracks a user's entire portfolio. 
+Developing an [iOS app](https://github.com/samhollingsworth/weighted-returns#readme) that tracks a user's entire financial portfolio. Allows the user to add a widget to their home screen to quickly see how their portfolio is performing
 
 **WalkMedford**  
 Developed an [iOS app](https://github.com/walkMedfordiOS/iOSapp#readme) during college for a local government organization to show users historical landmarks around the city of Medford, MA. Designed the schema and implemented a PostgreSQL Database to supply content to the app.
