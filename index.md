@@ -60,7 +60,7 @@ Developed an [iOS app](https://github.com/walkMedfordiOS/iOSapp#readme) during c
 **Tufts University, September 2015 - May 2019**  
 B.S. in Computer Science Engineering  
 Minor in Engineering Management  
-3.41 GPA, Dean's List
+3.41 GPA, _cum laude_
 
 # Contact
 
