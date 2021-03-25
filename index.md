@@ -3,7 +3,7 @@
 ***
 
 - 👨‍💻 I’m currently working at [Wayfair](https://www.wayfair.com) on their [iOS app](https://apps.apple.com/us/app/wayfair-shop-all-things-home/id836767708)
-- 📈 In my free time I'm working on a personal finance app [Weighted Returns](https://github.com/samhollingsworth/weighted-returns#readme)
+- 📈 In my free time I'm working on a personal finance app [Weighted](https://github.com/samhollingsworth/weighted#readme)
 - 🔒 I’m currently learning about mobile app security by reading and working through the [OWASP Mobile Security Testing Guide](https://mobile-security.gitbook.io/mobile-security-testing-guide/)
 
 # Skills
@@ -50,8 +50,8 @@ SQL, HTML, CSS
 
 ***  
 
-**Weighted Returns**  
-Currently developing an [iOS app](https://github.com/samhollingsworth/weighted-returns#readme) to track the performance of a user’s financial portfolio. Using CoreData to persist the data between sessions and creating a widget for users to add to their home screen to quickly see how their portfolio is performing
+**Weighted**  
+Currently developing an [iOS app](https://github.com/samhollingsworth/weighted#readme) to track the performance of a user’s financial portfolio. Using CoreData to persist the data between sessions and creating a widget for users to add to their home screen to quickly see how their portfolio is performing
 
 **WalkMedford**  
 Developed an [iOS app](https://github.com/walkMedfordiOS/iOSapp#readme) during college for a local government organization to show users historical landmarks around the city of Medford, MA. Designed the schema and implemented a PostgreSQL Database to supply content to the app.
