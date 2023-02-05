@@ -2,16 +2,14 @@
 
 ***
 
-- 👨‍💻 I’m currently working at [Wayfair](https://www.wayfair.com) on their [iOS app](https://apps.apple.com/us/app/wayfair-shop-all-things-home/id836767708)
-- 📈 In my free time I'm working on a personal finance app [Weighted](https://github.com/samhollingsworth/weighted#readme)
-- 🔒 I’m currently learning about mobile app security by reading and working through the [OWASP Mobile Security Testing Guide](https://mobile-security.gitbook.io/mobile-security-testing-guide/)
+👨‍💻 I’m currently working at [Uber](https://www.uber.com) on the Membership features for the [Rider](https://apps.apple.com/us/app/uber-request-a-ride/id368677368) and [Eats](https://apps.apple.com/us/app/uber-eats-food-delivery/id1058959277) apps
 
 # Skills
 
 ***  
 
 **Proficient**  
-Swift, iOS, Xcode, Git, GraphQL, VIPER
+Swift, RxSwift, iOS, Xcode, Git, GraphQL, VIPER
 
 **Comfortable**  
 SwiftUI, JavaScript, PHP, C/C++, Unix
