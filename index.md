@@ -55,17 +55,19 @@ Uber One Membership team, allowing for graceful degradation and prompting users 
 project with alternatives considered, presented ERDs at review meetings
 
 ## Wayfair, Boston, MA
-Software Engineer I, JUN 2019 - MAY 2021
+**Software Engineer I, JUN 2019 - MAY 2021**
 - Developed mobile messaging experience using VIPER architecture and GraphQL, connecting shoppers
 with support agents
 - Ran bi-weekly retro meeting; collected input from teammates prior to the meeting, led the conversation
 during the meeting, and reminded teammates of the action items the following weeks
 
-## CareTrails, Full Stack Software Engineer Intern, MAY 2018 - JUN 2019
+## CareTrails
+**Full Stack Software Engineer Intern, MAY 2018 - JUN 2019**
 - Built iOS app to calculate statistics of Hospital Emergency Departments to improve efficiency and quality
 of care with Node.js API and NoSQL database
 
-## Self-Employed, Computer Science Tutor, MAY 2018 - AUG 2018
+## Self-Employed
+**Computer Science Tutor, MAY 2018 - AUG 2018**
 - Taught about Object Oriented Programming, data structures, sorting algorithms, time & space complexity
 
 # Projects
