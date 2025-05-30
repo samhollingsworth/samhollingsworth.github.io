@@ -2,47 +2,71 @@
 
 ***
 
-👨‍💻 I’m currently working at [Uber](https://www.uber.com) on the Membership features for the [Rider](https://apps.apple.com/us/app/uber-request-a-ride/id368677368) and [Eats](https://apps.apple.com/us/app/uber-eats-food-delivery/id1058959277) apps
+👨‍💻 Senior Software Engineer at [Uber](https://www.uber.com) with 6 years of experience leading feature development across iOS and
+Android platforms serving millions of daily users. I’m currently working on the Autonomous Mobility and Delivery features for the [Rider](https://apps.apple.com/us/app/uber-request-a-ride/id368677368) and [Eats](https://apps.apple.com/us/app/uber-eats-food-delivery/id1058959277) apps
 
 # Skills
 
 ***  
 
-**Proficient**  
-Swift, RxSwift, iOS, Xcode, Git, GraphQL, VIPER
+**Languages** 
+Swift, Thrift, GraphQL
 
-**Comfortable**  
-SwiftUI, JavaScript, PHP, C/C++, Unix
+**Frameworks & Libraries** 
+RxSwift, UIKit, SwiftUI, SnapKit, XCTest
 
-**Some Exposure**  
-SQL, HTML, CSS
+**Tools & Technologies** 
+Git, RIB, VIPER, MVVM, SOLID, REST API, SDUI
 
 # Experience
 
 ***  
 
-**Wayfair, iOS Software Engineer II** July 2020 – Present 
-- Acts as iOS representative for mobile messaging platform team, responds to requests from other teams to change code and prioritizes work with team goals
-- Monitors and investigates errors when alerts are triggered. Ensures necessary fixes are completed by next weekly release
-- Presents work of team at monthly Service Engineering App All Hands meeting and presents at App Lunch & Learn to share knowledge
-- Picks up JavaScript and PHP tickets to help out Full Stack team to fix issues in the backend that are affecting app and UI issues for WebView
-- Runs bi-weekly retro meeting; collects input from teammates prior to the meeting, leads the conversation during the meeting, and reminds teammates of the action items the following weeks
+## Uber, San Francisco, CA
+**Senior Software Engineer, JAN 2025 - Present**
+- Led mobile feature development to operate autonomous vehicles (AVs) for mobility and delivery in cities
+worldwide, collaborating with multiple autonomous partners (Waymo, WeRide, Serve, Cartken, AvRide)
+- Interfaced with partners to test functionality both onsite and remotely, troubleshooting any issues between
+the platforms to ensure a smooth launch with significant media attention
+- Reduced trip cancellations by enabling riders to change pickup location while AV is enroute, working
+closely with Waymo to ensure the new locations are compatible with their vehicles
+- Increased successful deliveries by educating eaters on what to expect from an autonomous vehicle,
+implementing both iOS and Android to solve resourcing constraint and deliver feature on time
+- Mitigated and resolved incident that degraded the walking navigation for riders on autonomous trips,
+presented deep dive into root cause, and action items to prevent future occurrences
+- Identified engineering solution to meet short launch timelines and accommodate last minute decisions
+between Uber and our partners by designing and building a framework for server-driven UI and actions
 
+**Software Engineer II, JUL 2022 - DEC 2024**
+- Transitioned to AV team at the request of Executive leadership to staff company’s top priority initiative
+Top code reviewer for team, checking for readability, modularity, and test coverage to ensure functionality
+would scale well and the changes were properly guarded in case of degradation
+- Quickly developed a solution to address contractual obligations, ensuring that eaters accepted the
+partner’s Terms of Service, unblocking the launch of the top delivery partner on our platform
+- Worked cross-functionally with Product Managers and Designers to ensure the engineering work satisfied
+all requirements. Proactively notified when a requirement could not be met, or would delay the launch
+- Active member of the on-call rotation for the team, monitoring feature health dashboards and investigating
+issues when alerts were triggered
 
-**Wayfair, iOS Software Engineer I** July 2019 – July 2020
-- Worked on mobile messaging platform to connect customers with customer service agents. Developed using VIPER architecture and GraphQL for web requests
-- Code reviewed teammate’s pull requests to ensure code adheres to company style guidelines and best practices
+**Software Engineer I, JUN 2021 - JUN 2022**
+- Quickly onboarded to new codebase, within 3 months delivered a full iOS feature to handle deeplinks for
+Uber One Membership team, allowing for graceful degradation and prompting users to update their app
+- Wrote and facilitated feedback of multiple Engineering Request Documents (ERDs) to outline design for
+project with alternatives considered, presented ERDs at review meetings
 
-**CareTrails, Full Stack Engineer Intern** May 2018 – June 2019
-- Built an iOS application in Swift that calculates statistics of Hospital Emergency Departments in order to improve efficiency and care  
-- Built a Node.js API and NoSQL database with patient information to supply data to iOS application  
-- Learned how to code in Swift and build RESTful APIs
+## Wayfair, Boston, MA
+Software Engineer I, JUN 2019 - MAY 2021
+- Developed mobile messaging experience using VIPER architecture and GraphQL, connecting shoppers
+with support agents
+- Ran bi-weekly retro meeting; collected input from teammates prior to the meeting, led the conversation
+during the meeting, and reminded teammates of the action items the following weeks
 
-**Self-Employed, Computer Science Tutor** May – August 2018 
-- Taught Computer Science students about Object Oriented Programming, data structures, sorting algorithms, and time & space complexity
+## CareTrails, Full Stack Software Engineer Intern, MAY 2018 - JUN 2019
+- Built iOS app to calculate statistics of Hospital Emergency Departments to improve efficiency and quality
+of care with Node.js API and NoSQL database
 
-**Blachard Construction, Construction Worker** May – August 2015, 2016 
-- Constructed a 3 story house with a team of 10, became an expert in painting indoor and outdoor surfaces
+## Self-Employed, Computer Science Tutor, MAY 2018 - AUG 2018
+- Taught about Object Oriented Programming, data structures, sorting algorithms, time & space complexity
 
 # Projects
 
